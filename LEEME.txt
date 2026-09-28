@@ -1,0 +1,8 @@
+LAS TONINAS - SITIO WEB (lastoninassurf.com)
+
+Para cambiar fotos, reemplazá estos archivos con el mismo nombre:
+  foto-playa.jpg     -> foto de la portada
+  foto-alumnos.jpg   -> foto de "Quiénes somos"
+  tabla-softboard.png, tabla-midlength.png, tabla-shortboard.png -> tablas (PNG sin fondo)
+
+Los textos en los 3 idiomas están en script.js.
